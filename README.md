@@ -13,3 +13,26 @@ The test image shown above was resized to an image of size 32x32, and fed to the
 
 
 The output of the GAN is as shown above
+
+## Requirements
+
+Python 2
+
+Keras 
+
+Tensorflow
+
+Scikit-image
+
+
+## Steps
+
+1. Clone the repo
+
+2. Make sure relevant packages are installed
+
+3. cd src/
+
+4. Run "python gan.py" to train the GAN. The discriminator and generator models will be saved.
+
+5. Run "python test.py" to test the generator
