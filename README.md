@@ -18,6 +18,8 @@ The output of the GAN is as shown above
 
 Python 2
 
+Numpy
+
 Keras 
 
 Tensorflow
